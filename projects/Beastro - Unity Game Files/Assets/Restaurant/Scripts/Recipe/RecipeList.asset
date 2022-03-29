@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d49abcadaa9ede4191453b6809afc78, type: 3}
+  m_Name: RecipeList
+  m_EditorClassIdentifier: 
+  recipes:
+  - name: Burger
+    description: It's a burger. Nothing more, nothing less.
+    image: {fileID: 21300028, guid: 37607ec1aab56e349af84a980f685a4b, type: 3}
+    spawnable: {fileID: 4229018321521989180, guid: b976a2ff76544e84aac57ae5ec3979ff,
+      type: 3}
+    requiredIngredients:
+    - ingredient: 0
+      amount: 1
+    - ingredient: 2
+      amount: 2
+    station: 0
+    price: 5
+    cookDuration: 3
+  - name: Chicken
+    description: It's definitely chicken...
+    image: {fileID: 21300102, guid: 37607ec1aab56e349af84a980f685a4b, type: 3}
+    spawnable: {fileID: 3769180509644172097, guid: 381f57fdd1ba3884f8f35484a298876e,
+      type: 3}
+    requiredIngredients:
+    - ingredient: 1
+      amount: 1
+    - ingredient: 3
+      amount: 2
+    station: 0
+    price: 4
+    cookDuration: 3
+  - name: French Fries
+    description: It's definitely fries...
+    image: {fileID: 21300004, guid: 37607ec1aab56e349af84a980f685a4b, type: 3}
+    spawnable: {fileID: 54503941143695272, guid: 680e0a4162ad23d4a9adc7cf88717195,
+      type: 3}
+    requiredIngredients:
+    - ingredient: 3
+      amount: 1
+    station: 3
+    price: 2
+    cookDuration: 3
+  - name: Tempura
+    description: It's definitely tempura...
+    image: {fileID: 21300070, guid: 37607ec1aab56e349af84a980f685a4b, type: 3}
+    spawnable: {fileID: 9202298322537508411, guid: 0cc26abda4e076447972377400c98490,
+      type: 3}
+    requiredIngredients:
+    - ingredient: 1
+      amount: 1
+    - ingredient: 3
+      amount: 2
+    station: 3
+    price: 5
+    cookDuration: 3
+  - name: Shrimp
+    description: It's definitely shrimp...
+    image: {fileID: 21300000, guid: 37607ec1aab56e349af84a980f685a4b, type: 3}
+    spawnable: {fileID: 3299098804672901756, guid: b56a229df178b724d824629f589a7a0b,
+      type: 3}
+    requiredIngredients:
+    - ingredient: 1
+      amount: 1
+    - ingredient: 3
+      amount: 2
+    station: 3
+    price: 4
+    cookDuration: 3
+  - name: Coffee
+    description: It's definitely coffee...
+    image: {fileID: 21300000, guid: 93975662c972a4db5bb8e858a559e9ec, type: 3}
+    spawnable: {fileID: 1089378100849994557, guid: 0a5730a251096ed4fa9826cdf02b4b1a,
+      type: 3}
+    requiredIngredients:
+    - ingredient: 3
+      amount: 1
+    station: 2
+    price: 3
+    cookDuration: 3
+  - name: Maki Sushi
+    description: It's definitely Maki Sushi...
+    image: {fileID: 21300074, guid: 37607ec1aab56e349af84a980f685a4b, type: 3}
+    spawnable: {fileID: 5689866854269871142, guid: 769ee0424ab5f584a87ae80b3c96ecac,
+      type: 3}
+    requiredIngredients:
+    - ingredient: 3
+      amount: 1
+    station: 4
+    price: 5
+    cookDuration: 3
+  - name: Nigiri
+    description: It's definitely Nigiri...
+    image: {fileID: 21300064, guid: 37607ec1aab56e349af84a980f685a4b, type: 3}
+    spawnable: {fileID: 3299098804672901756, guid: b56a229df178b724d824629f589a7a0b,
+      type: 3}
+    requiredIngredients:
+    - ingredient: 3
+      amount: 1
+    station: 4
+    price: 5
+    cookDuration: 3
+  - name: onigiri
+    description: It's definitely Onigiri...
+    image: {fileID: 21300078, guid: 37607ec1aab56e349af84a980f685a4b, type: 3}
+    spawnable: {fileID: 5689866854269871142, guid: 473e349dafefef641979cf2e333ca129,
+      type: 3}
+    requiredIngredients:
+    - ingredient: 3
+      amount: 1
+    station: 4
+    price: 5
+    cookDuration: 3
+  - name: Lemonade
+    description: It's definitely Lemonade...
+    image: {fileID: 21300000, guid: adbd6b6d02ed54f02bfd0485a39d2ea8, type: 3}
+    spawnable: {fileID: 5689866854269871142, guid: 84c49885df7b57c4ca947aea2e92a0d7,
+      type: 3}
+    requiredIngredients:
+    - ingredient: 3
+      amount: 1
+    station: 1
+    price: 2
+    cookDuration: 3
+  - name: Orange Juice
+    description: It's definitely Orange Juice...
+    image: {fileID: 21300000, guid: 48f7a4c6c857f4c3da7dfb3e85b66e63, type: 3}
+    spawnable: {fileID: 5689866854269871142, guid: 76e214bbce21d7e4081295a0707300e4,
+      type: 3}
+    requiredIngredients:
+    - ingredient: 3
+      amount: 1
+    station: 1
+    price: 3
+    cookDuration: 3
+  - name: Pizza
+    description: It's definitely pizza...
+    image: {fileID: 21300030, guid: 37607ec1aab56e349af84a980f685a4b, type: 3}
+    spawnable: {fileID: 3640959654996729695, guid: 505ff43b309c19a47b2453ae37dadcd0,
+      type: 3}
+    requiredIngredients:
+    - ingredient: 3
+      amount: 1
+    station: 0
+    price: 5
+    cookDuration: 3
+  - name: Steak
+    description: It's definitely Steak...
+    image: {fileID: 21300090, guid: 37607ec1aab56e349af84a980f685a4b, type: 3}
+    spawnable: {fileID: 6221193072000123880, guid: 1d740cd25495ffe4bb66dca8fb0a5ed4,
+      type: 3}
+    requiredIngredients:
+    - ingredient: 0
+      amount: 1
+    station: 0
+    price: 6
+    cookDuration: 3
+  - name: Chili
+    description: It's definitely Chili...
+    image: {fileID: 21300054, guid: 37607ec1aab56e349af84a980f685a4b, type: 3}
+    spawnable: {fileID: 8321147905212975581, guid: d3097ebe7d4266f4082a42a39696fde9,
+      type: 3}
+    requiredIngredients:
+    - ingredient: 0
+      amount: 1
+    station: 5
+    price: 3
+    cookDuration: 3

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6380255353914173632
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6380255353914173638}
+  - component: {fileID: 6380255353914173633}
+  m_Layer: 0
+  m_Name: CultivationTreeMenuButtonManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6380255353914173638
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6380255353914173632}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.081215, y: 18.306166, z: 18.142372}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6380255353914173633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6380255353914173632}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9e420a7422bfad46b161dbae985bc63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cultivationMenu: {fileID: 0}
+  fertilizerPrefab: {fileID: 5262268736276090051, guid: 82cbd8e4aa218e547b05316dfc4eea7a,
+    type: 3}
+  wateredFarmPlotMaterial: {fileID: 2100004, guid: fc17ac010187b414b82ba12722be8110,
+    type: 3}
+  dryFarmPlotMaterial: {fileID: 2100000, guid: b918da6165fc6b24d97987ecd6020cb2, type: 2}
