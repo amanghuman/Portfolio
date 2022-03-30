@@ -1,0 +1,23 @@
+﻿  main.cpp
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\mouseCamera.h(46,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\mouseCamera.h(47,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\mouseCamera.h(50,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\mouseCamera.h(52,26): warning C4305: '=': truncation from 'double' to 'float'
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\mouseCamera.h(60,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\body.h(22,39): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(75,26): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(75,18): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(75,11): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(137,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(160,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(215,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(215,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(222,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(222,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(229,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(229,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(236,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(236,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\main.cpp(370,21): warning C4305: '=': truncation from 'double' to 'float'
+  assignment2_AmandeepSingh.vcxproj -> D:\Computer Graphics\Projects\assignment2_AmandeepSingh\assignment2_AmandeepSingh\x64\Debug\assignment2_AmandeepSingh.exe
